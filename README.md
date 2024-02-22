@@ -39,7 +39,8 @@ Through the analysis following predictions and results are drawn,
 2. The person who did the most listing in 2019 is Sonder NYC with 327 listing.
 3. It can be predicted that arround 157.88k booking was down per month.
 4. The over all base price in New York City is predicted to be 118.28 $.
-Like this many more analysis and predictions are made in this project.
+
+Like this many other analysis and predictions are made in this project.
 
 ## License 
 MIT License.
