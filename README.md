@@ -17,7 +17,7 @@ This repository contains code and resources for analyzing NYC Airbnb Listings. T
 
 ## Data Source
 New York City Airbnb Open Data.
-https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/download?datasetVersionNumber=3
+* https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/download?datasetVersionNumber=3
 
 ## Analysis
 * This analysis will primarily focus on the listing made on Airbnb website for the year 2019 in New York City.
